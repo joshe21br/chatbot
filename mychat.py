@@ -5,7 +5,7 @@
 # Linkdin: Josué Souza da Silva
 # Gitlab: https://gitlab.com/joshe_sotero
 # Pequenos projetos pessoais: http://joshe.epizy.com/
-# https://django1-js.herokuapp.com
+# https://myadmin-21.herokuapp.com/
 """
 Criação do chatbot com NLTK -->> Nivel Básico
 ---------------------------
